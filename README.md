@@ -20,11 +20,6 @@ I'm passionate about building secure, scalable systems and solving complex algor
 
 ## 💼 Featured Projects
 
-### 🔐 [MailQ - Quantum Secure Email](https://github.com/palakmishra01/Quant_Crypt_SIH)
-First-of-its-kind quantum-secure framework for email clients integrating Post-Quantum Cryptography (Kyber), AES encryption, and QKD simulator.
-- **Tech:** C++, Quantum Cryptography, AES
-- **Features:** Multi-layered security, user-friendly Security Dial, modular architecture
-
 ### 📝 [Version Controlled Note-Taking System](https://github.com/palakmishra01/DSA-project-repo)
 CLI-based note-taking app with built-in version control featuring commit, diff, and restore capabilities with AES encryption.
 - **Tech:** C++, AES Encryption
@@ -34,6 +29,11 @@ CLI-based note-taking app with built-in version control featuring commit, diff, 
 Financial tracking system with real-time multi-currency conversion and automated analytics.
 - **Tech:** C++17, REST API, JSON
 - **Features:** ExchangeRate API integration, CSV storage, spending insights
+
+  ### 🔐 [MailQ - Quantum Secure Email](https://github.com/palakmishra01/Quant_Crypt_SIH)
+First-of-its-kind quantum-secure framework for email clients integrating Post-Quantum Cryptography (Kyber), AES encryption, and QKD simulator.
+- **Tech:** C++, Quantum Cryptography, AES
+- **Features:** Multi-layered security, user-friendly Security Dial, modular architecture
 
 ### 🌐 [PHEME Club Website](https://github.com/palakmishra01/Pheme-IITJ)
 Official web presence for PHEME club with dynamic pages and responsive design.
