@@ -10,7 +10,7 @@ I'm passionate about building secure, scalable systems and solving complex algor
 
 - 🎓 B.Tech in Electrical Engineering at **IIT Jodhpur** (CGPA: 8.33)
 - 💻 Focused on **software development**, **algorithms**, and **machine learning**
-- 🏆 **270+ LeetCode problems solved** | Peak Rating: **1530** | **140+ day streak**
+- 🏆 **300+ LeetCode problems solved** | Peak Rating: **1530** | **150+ day streak**
 - 🌱 Currently exploring advanced DSA, system design, and machine learning
 
 ---
